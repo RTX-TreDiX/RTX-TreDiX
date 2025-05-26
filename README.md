@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Javad
-=============================================================================================================================
+===========================================================================================================
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 Developer And Cybersecurity Specialist
---------------------------------------
 
 ⌨️ Typing... 100% human ☕, 200% into clean code, and yeah… I talk to rubber ducks 🐥 Let’s build awesome stuff and try not to blow it up (no promises) 🧠 I code to build 💻, and hack just to see how it falls apart 💣🕶️
 
